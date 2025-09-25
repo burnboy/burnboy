@@ -26,6 +26,14 @@ https://velog.io/@kusdsuna/Github-Private-repository-commit-%EC%9E%94%EB%94%94-%
 
 https://github-readme-stats.vercel.app/api?username=adamdoha&count_private=true.
 
+
+설정 예시
+<img src="assets/my_profile_screenshot.png" alt="내 깃허브 프로필 스크린샷" 
+     style="border: 3px solid #007bff; border-radius: 5px; padding: 5px;"/>
+
+https://haneepark.github.io/2017/12/21/how-to-upload-image-with-github-readme/
+
+
 ==============================================================================================================================
 -->
 
@@ -43,18 +51,33 @@ https://github-readme-stats.vercel.app/api?username=adamdoha&count_private=true.
 
 &nbsp;
 
+
 ## MyWorks
-<img width="480" height="270" alt="Image" src="https://github.com/user-attachments/assets/02529488-ddb8-416f-a89c-4bb224c8da63" />
+<details>
+  <summary>Click</summary>
+  <br>
+
+  &nbsp;
+  - 언리얼5 리슨서버 RPC 연동 및 라스트맨스탠딩 라이크 게임 모작
+  <img width="480" height="270" alt="Image" src="https://github.com/user-attachments/assets/02529488-ddb8-416f-a89c-4bb224c8da63" />
+  
 &nbsp;
+  - UGS를 이용한 모바일 멀티플레이 게임 개발(유니티 클라우드 연동)
 <img width="480" height="270" alt="Image" src="https://github.com/user-attachments/assets/c094964e-0a46-4f6f-afb2-0f802cf73df4" />
+
 &nbsp;
+  - C# iocp서버 구글 Protobuff 패킷을 사용한 2D 게임 연동 및 플레이
 <img width="480" height="270" alt="Image" src="https://github.com/user-attachments/assets/e7658baa-44c8-44cf-b9ae-934df35f3d9d" />
+
 &nbsp;
+  - Direct11 3D 구현
 <img width="480" height="270" alt="Image" src="https://github.com/user-attachments/assets/323201c3-43cf-47ee-81dc-8f7350abbcf2" />
 
+  <br>
+  <br>
+ 
 
-
-
+</details>
 
 
 
