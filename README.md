@@ -78,15 +78,21 @@ https://haneepark.github.io/2017/12/21/how-to-upload-image-with-github-readme/
   
 &nbsp;
   - UGS를 이용한 모바일 멀티플레이 게임 개발(유니티 클라우드 연동)
-<img width="480" height="270" alt="Image" src="https://github.com/user-attachments/assets/c094964e-0a46-4f6f-afb2-0f802cf73df4" />
+<a href="https://youtu.be/rAUzi_jvlZU?si=V6mIQMYUXhR4hJ7w">
+  <img width="480" height="270" alt="Image" src="https://github.com/user-attachments/assets/c094964e-0a46-4f6f-afb2-0f802cf73df4" style="border: 3px solid red;"/>
+</a>
 
 &nbsp;
   - C# iocp서버 구글 Protobuff 패킷을 사용한 2D 게임 연동 및 플레이
-<img width="480" height="270" alt="Image" src="https://github.com/user-attachments/assets/e7658baa-44c8-44cf-b9ae-934df35f3d9d" />
+<a href="https://youtu.be/TPU5ZVSYsn0">
+  <img width="480" height="270" alt="Image" src="https://github.com/user-attachments/assets/e7658baa-44c8-44cf-b9ae-934df35f3d9d" style="border: 3px solid red;"/>
+</a>
+
 
 &nbsp;
   - Direct11 3D 구현
-<img width="480" height="270" alt="Image" src="https://github.com/user-attachments/assets/323201c3-43cf-47ee-81dc-8f7350abbcf2" />
- 
+ <a href="https://youtu.be/NEoTD120IaI">
+  <img width="480" height="270" alt="Image" src="https://github.com/user-attachments/assets/323201c3-43cf-47ee-81dc-8f7350abbcf2" style="border: 3px solid red;"/>
+</a>
 </details>
 
