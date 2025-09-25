@@ -89,11 +89,23 @@ https://haneepark.github.io/2017/12/21/how-to-upload-image-with-github-readme/
   <img width="480" height="270" alt="Image" src="https://github.com/user-attachments/assets/e7658baa-44c8-44cf-b9ae-934df35f3d9d" style="border: 3px solid red;"/>
 </a>
 
+&nbsp;
+  - 자체패킷으로 만든 C# iocp서버 클라 테스트
+<a href="https://youtu.be/bm_kpAqGUF4?si=jPtwO4MC0cDcIowC">
+  <img width="480" height="270" alt="Image" src="https://github.com/user-attachments/assets/d10c5942-0068-438b-8b66-c2e189c27fd7" style="border: 3px solid red;"/>
+</a>
 
 &nbsp;
   - Direct11 3D 구현
  <a href="https://youtu.be/NEoTD120IaI">
   <img width="480" height="270" alt="Image" src="https://github.com/user-attachments/assets/323201c3-43cf-47ee-81dc-8f7350abbcf2" style="border: 3px solid red;"/>
 </a>
+
+&nbsp;
+  - biohazardlike game
+<img width="480" height="270" alt="Image" src="https://github.com/user-attachments/assets/aee486af-c982-4763-b6cb-a3ac6a96a578" />
+
+&nbsp;
+
 </details>
 
