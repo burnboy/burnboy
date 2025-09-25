@@ -43,6 +43,18 @@ https://github-readme-stats.vercel.app/api?username=adamdoha&count_private=true.
 
 &nbsp;
 
+## MyWorks
+<img width="480" height="270" alt="Image" src="https://github.com/user-attachments/assets/02529488-ddb8-416f-a89c-4bb224c8da63" />
+&nbsp;
+<img width="480" height="270" alt="Image" src="https://github.com/user-attachments/assets/c094964e-0a46-4f6f-afb2-0f802cf73df4" />
+&nbsp;
+<img width="480" height="270" alt="Image" src="https://github.com/user-attachments/assets/e7658baa-44c8-44cf-b9ae-934df35f3d9d" />
+&nbsp;
+<img width="480" height="270" alt="Image" src="https://github.com/user-attachments/assets/323201c3-43cf-47ee-81dc-8f7350abbcf2" />
+
+
+
+
 
 
 
