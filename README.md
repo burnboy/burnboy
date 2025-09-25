@@ -64,18 +64,17 @@ https://haneepark.github.io/2017/12/21/how-to-upload-image-with-github-readme/
 &nbsp;
 
 
-
-
-
-
 ## My Repositories
 <details>
   <summary>Click</summary>
   <br>
 
 &nbsp;
-  - 언리얼5 리슨서버 RPC 연동 및 라스트맨스탠딩 라이크 게임 모작
-  <img width="480" height="270" alt="Image" src="https://github.com/user-attachments/assets/02529488-ddb8-416f-a89c-4bb224c8da63"/>
+
+- 언리얼5 리슨서버 RPC 연동 및 라스트맨스탠딩 라이크 게임 모작
+<a href="https://youtu.be/iUzGKQYA6fg?si=Cnl6soPmrPv6hsG6">
+  <img width="480" height="270" alt="Image" src="https://github.com/user-attachments/assets/02529488-ddb8-416f-a89c-4bb224c8da63" style="border: 3px solid red;"/>
+</a>
   
 &nbsp;
   - UGS를 이용한 모바일 멀티플레이 게임 개발(유니티 클라우드 연동)
