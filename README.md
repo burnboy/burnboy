@@ -13,12 +13,20 @@ https://simpleicons.org/?q=c
 
 <script src="https://gist.github.com/burnboy/c7966f6d834555045e7484edc3e4360f.js"></script>
 
-
 //내 테스트 토큰 이름
 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
 
 
 http://taewan.kim/post/markdown/#comment
+
+잔디 설정법
+https://velog.io/@kusdsuna/Github-Private-repository-commit-%EC%9E%94%EB%94%94-%EB%B3%B4%EC%9D%B4%EA%B2%8C%ED%95%98%EA%B8%B0
+
+
+https://github-readme-stats.vercel.app/api?username=adamdoha&count_private=true.
+
+
+
 
 -->
 
@@ -30,15 +38,7 @@ http://taewan.kim/post/markdown/#comment
 <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/></a> &nbsp 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burnboy)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![my stats](https://github-readme-stats.vercel.app/api?username=burnboy&theme=dark&show_icons=true)
-
-
-
-
+![burnboy's GitHub stats](https://github-readme-stats.vercel.app/api?username=burnboy&count_private=true&show_icons=true)
 
 
 
