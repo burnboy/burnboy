@@ -68,6 +68,7 @@ https://haneepark.github.io/2017/12/21/how-to-upload-image-with-github-readme/
 <details>
   <summary>Click</summary>
   <br>
+  "스크린샷을 클릭하면 유투브 영상으로 넘어갑니다!".
 
 &nbsp;
 
