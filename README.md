@@ -52,7 +52,7 @@ https://haneepark.github.io/2017/12/21/how-to-upload-image-with-github-readme/
 <br>
  최근에는 C# 서버와 유니티 클라이언트 동기화,
  <br>
- 언리얼엔진5을 을 활용한 C++ 개발 공부를 하고 있습니다.
+ 언리얼엔진5을 활용한 C++ 개발 공부를 하고 있습니다.
   <br>
   <br>
 </details>
