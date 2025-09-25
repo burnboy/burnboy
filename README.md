@@ -24,10 +24,6 @@ https://velog.io/@kusdsuna/Github-Private-repository-commit-%EC%9E%94%EB%94%94-%
 
 
 https://github-readme-stats.vercel.app/api?username=adamdoha&count_private=true.
-
-
-
-
 -->
 
 </br>
@@ -38,9 +34,11 @@ https://github-readme-stats.vercel.app/api?username=adamdoha&count_private=true.
 <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/></a> &nbsp 
 
-![burnboy's GitHub stats](https://github-readme-stats.vercel.app/api?username=burnboy&count_private=true&show_icons=true)
+
+![burnboy's GitHub stats](https://github-readme-stats.vercel.app/api?username=burnboy&?count_private=true&show_icons=true)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burnboy&?count_private=true)
 
 
 
