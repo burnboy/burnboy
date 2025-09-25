@@ -38,7 +38,7 @@ https://github-readme-stats.vercel.app/api?username=adamdoha&count_private=true.
 ![burnboy's GitHub stats](https://github-readme-stats.vercel.app/api?username=burnboy&?count_private=true&show_icons=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burnboy&?count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burnboy&hide=html,python,objective-c)
 
 
 
