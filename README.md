@@ -45,18 +45,6 @@ https://haneepark.github.io/2017/12/21/how-to-upload-image-with-github-readme/
 <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/></a> &nbsp 
 
-<details>
- <summary>my profile</summary>
-  <br>
- C#, 유니티 엔진 위주로 개발을 하고 있습니다. 
-<br>
- 최근에는 C# 서버와 유니티 클라이언트 동기화,
- <br>
- 언리얼엔진5을 활용한 C++ 개발 공부를 하고 있습니다.
-  <br>
-  <br>
-</details>
-
 ![burnboy's GitHub stats](https://github-readme-stats.vercel.app/api?username=burnboy&?count_private=true&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burnboy&hide=html,python,objective-c)
