@@ -45,9 +45,9 @@ https://haneepark.github.io/2017/12/21/how-to-upload-image-with-github-readme/
 <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/></a> &nbsp 
 
-![burnboy's GitHub stats](https://github-readme-stats.vercel.app/api?username=burnboy&?count_private=true&show_icons=true)
+//![burnboy's GitHub stats](https://github-readme-stats.vercel.app/api?username=burnboy&?count_private=true&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burnboy&hide=html,python,objective-c)
+//![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burnboy&hide=html,python,objective-c)
 
 &nbsp;
 
